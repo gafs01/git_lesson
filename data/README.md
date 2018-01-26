@@ -1,4 +1,6 @@
 # data
 
-This folder contains raw data use for analysis.
+This folder contains raw data used for analysis. 
+
+
 
