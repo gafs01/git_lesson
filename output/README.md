@@ -1,4 +1,6 @@
 # output
 
-This forlder contains intermediate data generated from scripts.
-Or output from scripts/programs in the `src` folder.
+
+This folder contains intermiediate data generated from scripts.
+Or output from scripts/programs in use 'src/' folder.
+
