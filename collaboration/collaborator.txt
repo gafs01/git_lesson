@@ -1,1 +1,5 @@
- I am a collaborator.
+ I am a collaborator!
+
+ This is a change i am making on a new branch and not directly on the master branch.
+
+ git-flow is a extension of working with branches.
