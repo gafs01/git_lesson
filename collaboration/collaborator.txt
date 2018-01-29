@@ -3,4 +3,5 @@
  This is a change i am making on a new branch and not directly on the master branch.
 
  git-flow is a extension of working with branches.
+
 after you make a pull request, you don´t have to resubmit it.
