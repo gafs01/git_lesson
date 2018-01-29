@@ -5,3 +5,5 @@
  git-flow is a extension of working with branches.
 
 after you make a pull request, you don´t have to resubmit it.
+
+This is a change without running `git pull upstream development` first.
